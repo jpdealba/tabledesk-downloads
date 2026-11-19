@@ -2,7 +2,7 @@
 
 Cliente de bases de datos de escritorio para PostgreSQL, MySQL/MariaDB, SQLite, SQL Server, Redis y MongoDB.
 
-Versión actual: **v0.1.3** · [Todas las versiones](https://github.com/jpdealba/tabledesk-downloads/releases)
+Versión actual: **v0.1.4** · [Todas las versiones](https://github.com/jpdealba/tabledesk-downloads/releases)
 
 ## Descargar
 
